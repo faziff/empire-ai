@@ -1,0 +1,6 @@
+{
+  "name": "Empire AI",
+  "description": "Empire AI - Full-Stack Production AI Suite with Gemini Dark Theme, Multi-API Key Routing, Secret Passkey Access, and Intelligent Token Streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
